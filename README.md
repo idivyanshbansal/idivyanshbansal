@@ -2,12 +2,11 @@
 
 
 
-- 🔭 I’m currently a student 🙄
 - 💕 I love making things 😍
-- 🌱 I’m currently learning everything 🤣
-- 💬 You can send me a message [here](https://idivyanshbansal.tk/) or [there](https://www.linkedin.com/in/idivyanshbansal/)😎
-- 👯 I’m looking to collaborate on elctronics and web devlopment 😝
-- 📧 You can contact me via my email - divyansh.bansal25@gmail.com 📬
+- 🔭 Currently a student of engineering, but a perpetual learner 🤓
+- 👯 Always open for interesting discussions and looking to collaborate on projects concerning electronics and web development 🙂
+- 💬 You can reach me [here](https://idivyanshbansal.tk/) or [there](https://www.linkedin.com/in/idivyanshbansal/)😎
+- 📧 Say hello at - divyansh.bansal25@gmail.com 📬
 
 
 <!--
