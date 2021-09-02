@@ -8,5 +8,5 @@ Here are some ideas to get you started:-->
 - 🔭 I’m currently a student 🙄
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on elctronics and web devlopment😝
-- 💬 You can send me a message <!--[here](https://idivyanshbansal.tk/)--><a href="https://idivyanshbansal.tk/" target="_blank">here</a>😎
+- 💬 You can send me a message [here](https://idivyanshbansal.tk/){:target="_blank" rel="noopener"}😎
 
