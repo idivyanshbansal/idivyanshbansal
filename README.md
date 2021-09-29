@@ -1,5 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50">
-
+<h2 align="Center">  Hi there, I'm <a href="https://idivyanshbansal.tk/">Divyansh Bansal</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50"></h3>
 
 
 - 💕 I love making things 😍
