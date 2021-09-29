@@ -5,7 +5,10 @@
 - 💕 I love making things 😍
 - 🔭 Currently a student of engineering, but a perpetual learner 🤓
 - 👯 Always open for interesting discussions and looking to collaborate on projects concerning electronics and web development 🙂
-- 💬 You can reach me [here](https://idivyanshbansal.tk/) or [there](https://www.linkedin.com/in/idivyanshbansal/)😎
+- 💬 How to reach me:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sambhav228/)](https://www.linkedin.com/in/idivyanshbansal/) 
+, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sambhavkumar228@gmail.com)](mailto:divyansh.bansal25@gmail.com)
+,[![Twitter Badge](https://img.shields.io/badge/-sambhav-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/idivyanshbnsl)](https://twitter.com/idivyanshbnsl)😎
 - 📧 Say hello at - divyansh.bansal25@gmail.com 📬
 
 
