@@ -1,4 +1,4 @@
-<h2 align="Center">  Hi there, I'm <a href="https://idivyanshbansal.tk/">Divyansh Bansal</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50"></h3>
+<h2 align="Center">  Hi there, I'm <a href="https://idivyanshbansal.tk/">Divyansh Bansal</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50"></h2>
 
 
 - 💕 I love making things 😍
@@ -10,11 +10,11 @@
 ,[![Twitter Badge](https://img.shields.io/badge/-Divyansh-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/idivyanshbnsl)](https://twitter.com/idivyanshbnsl)
 - 🌐 Check out: 
 
-- <a href="https://circuitspace.cf/">Circuit Space</a> <img src="https://webtoolskit.online/assets/img/circuitspace.png" width="50">
+<h2 align="Center"><a href="https://circuitspace.cf/">Circuit Space</a> <img src="https://webtoolskit.online/assets/img/circuitspace.png" width="50"></h2>
   
-- <a href="https://denoviz.web.app/">Denoviz</a> <img src="https://denoviz.web.app/assets/img/og.png" width="50">
+<h2 align="Center"><h2 align="Center"> <a href="https://denoviz.web.app/">Denoviz</a> <img src="https://denoviz.web.app/assets/img/og.png" width="50"></h2>
   
-- <a href="https://webtoolskit.online/">Web Tools Kit</a> <img src="https://webtoolskit.online/assets/img/og.png" width="50">
+<h2 align="Center"> <a href="https://webtoolskit.online/">Web Tools Kit</a> <img src="https://webtoolskit.online/assets/img/og.png" width="50"></h2>
 
 
 <!--
