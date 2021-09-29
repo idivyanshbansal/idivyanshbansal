@@ -7,8 +7,11 @@
 - 💬 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sambhav228/)](https://www.linkedin.com/in/idivyanshbansal/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sambhavkumar228@gmail.com)](mailto:divyansh.bansal25@gmail.com)
-,[![Twitter Badge](https://img.shields.io/badge/-Divyansh-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/idivyanshbnsl)](https://twitter.com/idivyanshbnsl)😎
-- 🌐 Check out <a href="https://circuitspace.cf/">Circuit Space</a>   <a href="https://denoviz.web.app/">Denoviz</a>  <a href="https://webtoolskit.online/">Web Tools Kit</a> 😁
+,[![Twitter Badge](https://img.shields.io/badge/-Divyansh-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/idivyanshbnsl)](https://twitter.com/idivyanshbnsl)
+- 🌐 Check out: 
+  <a href="https://circuitspace.cf/">Circuit Space</a> <img src="https://webtoolskit.online/assets/img/circuitspace.png" width="50">
+  <a href="https://denoviz.web.app/">Denoviz</a> <img src="https://denoviz.web.app/assets/img/og.png" width="50">
+  <a href="https://webtoolskit.online/">Web Tools Kit</a><img src="https://webtoolskit.online/assets/img/og.png" width="50">
 
 
 <!--
