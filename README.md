@@ -7,7 +7,8 @@
 - 💬 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/idivyanshbansal/)](https://www.linkedin.com/in/idivyanshbansal/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:divyansh.bansal25@gmail.com)](mailto:divyansh.bansal25@gmail.com)
-,[![Twitter Badge](https://img.shields.io/badge/-Divyansh-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/idivyanshbnsl)](https://twitter.com/idivyanshbnsl)
+,[![Twitter Badge](https://img.shields.io/badge/-Divyansh-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/idivyanshbnsl)](https://twitter.com/idivyanshbnsl) <img src="https://giphy.com/embed/KpOqvmCFdNMhF0pQb7" width="50">
+
 - 🌐 Check out: </h3>
 
 <h2><a href="https://circuitspace.cf/">Circuit Space</a> <img src="https://webtoolskit.online/assets/img/circuitspace.png" width="50"></h2>
