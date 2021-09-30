@@ -5,8 +5,8 @@
 - 🔭 Currently a student of engineering, but a perpetual learner 🤓
 - 👯 Always open for interesting discussions and looking to collaborate on projects concerning electronics and web development 🙂
 - 💬 How to reach me:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sambhav228/)](https://www.linkedin.com/in/idivyanshbansal/) 
-, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sambhavkumar228@gmail.com)](mailto:divyansh.bansal25@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/idivyanshbansal/)](https://www.linkedin.com/in/idivyanshbansal/) 
+, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:divyansh.bansal25@gmail.com)](mailto:divyansh.bansal25@gmail.com)
 ,[![Twitter Badge](https://img.shields.io/badge/-Divyansh-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/idivyanshbnsl)](https://twitter.com/idivyanshbnsl)
 - 🌐 Check out: </h3>
 
