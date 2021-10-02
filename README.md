@@ -1,5 +1,6 @@
 <h2 align="Center">  Hi there, I'm <a href="https://idivyanshbansal.tk/">Divyansh Bansal</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50"></h2>
 <h3>
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
 - 💕 I love making things 😍
 - 🔭 Currently a student of engineering, but a perpetual learner 🤓
