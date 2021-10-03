@@ -32,7 +32,7 @@
 --- 
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=idivyanshbansal&theme=chartreuse-dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idivyanshbansal&theme=chartreuse-dark">
 
 
 
