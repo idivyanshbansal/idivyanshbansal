@@ -1,5 +1,5 @@
 <h2 align="Center">  Hi there, I'm <a href="https://idivyanshbansal.tk/">Divyansh Bansal</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50"></h2>
-<h3>
+<h4>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
 - 💕 I love making things 😍
@@ -21,7 +21,7 @@
     
   ---
   
-- 🌐 Check out: </h3>
+- 🌐 Check out: </h4>
 
 <h2 align= "center"><a href="https://circuitspace.cf/">Circuit Space</a><img src="https://webtoolskit.online/assets/img/circuitspace.png" width="50">___  
 <a href="https://denoviz.web.app/">Denoviz</a> <img src="https://denoviz.web.app/assets/img/og.png" width="50">___
