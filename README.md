@@ -28,6 +28,8 @@
 <a href="https://denoviz.web.app/">Denoviz</a> <img src="https://denoviz.web.app/assets/img/og.png" width="50">___
 <a href="https://easycircuitbuild.tech/">Easy Circuit Build</a> <img src="https://webtoolskit.online/assets/img/easy-circuit-build.webp" width="50">___
 <a href="https://webtoolskit.online/">Web Tools Kit</a> <img src="https://webtoolskit.online/assets/img/og.png" width="50"></h2>
+--- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idivyanshbansal&layout=compact)
 
 
 <!--
