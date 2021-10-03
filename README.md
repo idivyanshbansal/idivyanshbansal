@@ -21,10 +21,10 @@
   
 - 🌐 Check out: </h3>
 
-<h2><a align= "center" href="https://circuitspace.cf/">Circuit Space</a> <img src="https://webtoolskit.online/assets/img/circuitspace.png" width="50"></h2>
-<h2><a href="https://denoviz.web.app/">Denoviz</a> <img src="https://denoviz.web.app/assets/img/og.png" width="50"></h2>
-<h2><a align= "center" href="https://easycircuitbuild.tech/">Easy Circuit Build</a> <img src="https://webtoolskit.online/assets/img/easy-circuit-build.webp" width="50"></h2> 
-<h2><a href="https://webtoolskit.online/">Web Tools Kit</a> <img src="https://webtoolskit.online/assets/img/og.png" width="50"></h2>
+<h2><a align= "center" href="https://circuitspace.cf/">Circuit Space</a> <img src="https://webtoolskit.online/assets/img/circuitspace.png" width="50">
+<a href="https://denoviz.web.app/">Denoviz</a> <img src="https://denoviz.web.app/assets/img/og.png" width="50">
+<a align= "center" href="https://easycircuitbuild.tech/">Easy Circuit Build</a> <img src="https://webtoolskit.online/assets/img/easy-circuit-build.webp" width="50"> 
+<a href="https://webtoolskit.online/">Web Tools Kit</a> <img src="https://webtoolskit.online/assets/img/og.png" width="50"></h2>
 
 
 <!--
