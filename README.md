@@ -16,7 +16,8 @@
   <img align="right" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=idivyanshbansal&theme=radical">
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=idivyanshbansal&count_private=true&theme=radical&show_icons=true" /></a>
   </p>
-  
+  ![Divyansh Bansal's github activity graph](https://activity-graph.herokuapp.com/graph?username=idivyanshbansal&theme=chartreuse-dark)
+    
   ---
   
 - 🌐 Check out: </h3>
