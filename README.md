@@ -31,7 +31,7 @@
 
 --- 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idivyanshbansal&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idivyanshbansal&theme=chartreuse-dark)
 
 
 <!--
