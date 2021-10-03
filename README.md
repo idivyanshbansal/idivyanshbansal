@@ -13,10 +13,9 @@
   ---
   <p>
     <a align= "center" href="https://github.com/idivyanshbansal">
-  <img align="right" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=idivyanshbansal&theme=radical">
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=idivyanshbansal&count_private=true&theme=radical&show_icons=true" /></a>
+  <img align="right" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=idivyanshbansal&theme=chartreuse-dark">
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=idivyanshbansal&count_private=true&theme=chartreuse-dark&show_icons=true" /></a>
   </p>
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   ![Divyansh Bansal's github activity graph](https://activity-graph.herokuapp.com/graph?username=idivyanshbansal&theme=chartreuse-dark)
     
