@@ -11,10 +11,11 @@
 ,[![Twitter Badge](https://img.shields.io/badge/-Divyansh-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/idivyanshbnsl)](https://twitter.com/idivyanshbnsl) <img src="https://cdn.dribbble.com/users/2437398/screenshots/4874253/media/2f02a5172aa13b3884144e7b2f49f363.gif" width="50">
 
   ---
-  
-  <img align="right" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=idivyanshbansal&theme=radical">
-<img align="right" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=idivyanshbansal&count_private=true&theme=radical&show_icons=true" />
-
+  <p>
+    <a align= "center" href="https://github.com/idivyanshbansal">
+  <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=idivyanshbansal&theme=radical">
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=idivyanshbansal&count_private=true&theme=radical&show_icons=true" /></a>
+  </p>
   ---
 - 🌐 Check out: </h3>
 
