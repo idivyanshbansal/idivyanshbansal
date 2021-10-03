@@ -31,7 +31,10 @@
 
 --- 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idivyanshbansal&theme=chartreuse-dark)
+
+  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=idivyanshbansal&theme=chartreuse-dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idivyanshbansal&theme=chartreuse-darkk">
+
 
 
 <!--
