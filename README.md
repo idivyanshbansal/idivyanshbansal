@@ -32,6 +32,7 @@
 --- 
 
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=idivyanshbansal&repo=Bluetooth_module_AT_cmd&theme=chartreuse-dark">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=idivyanshbansal&repo=Html-games&theme=chartreuse-dark">
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idivyanshbansal&theme=chartreuse-dark">
 
