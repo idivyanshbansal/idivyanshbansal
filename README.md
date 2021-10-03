@@ -13,7 +13,7 @@
   ---
   
   <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=idivyanshbansal&theme=radical">
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=idivyanshbansal&count_private=true&theme=radical&show_icons=true" />
+<img align="right" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=idivyanshbansal&count_private=true&theme=radical&show_icons=true" />
 
   ---
 - 🌐 Check out: </h3>
