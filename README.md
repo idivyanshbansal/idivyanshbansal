@@ -8,7 +8,8 @@
 - 💬 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/idivyanshbansal/)](https://www.linkedin.com/in/idivyanshbansal/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:divyansh.bansal25@gmail.com)](mailto:divyansh.bansal25@gmail.com)
-,[![Twitter Badge](https://img.shields.io/badge/-Divyansh-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/idivyanshbnsl)](https://twitter.com/idivyanshbnsl) <img src="https://cdn.dribbble.com/users/2437398/screenshots/4874253/media/2f02a5172aa13b3884144e7b2f49f363.gif" width="50">
+,[![Twitter Badge](https://img.shields.io/badge/-Divyansh-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/idivyanshbnsl)](https://twitter.com/idivyanshbnsl) <img src="https://cdn.dribbble.com/users/2437398/screenshots/4874253/media/2f02a5172aa13b3884144e7b2f49f363.gif" width="50"></h4>
+
 
   ---
   <p>
@@ -20,7 +21,7 @@
   ![Divyansh Bansal's github activity graph](https://activity-graph.herokuapp.com/graph?username=idivyanshbansal&theme=chartreuse-dark)
     
   ---
-  
+<h4>  
 - 🌐 Check out: </h4>
 
 <h2 align= "center"><a href="https://circuitspace.cf/">Circuit Space</a><img src="https://webtoolskit.online/assets/img/circuitspace.png" width="50">___  
