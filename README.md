@@ -19,7 +19,13 @@
 <a href="https://easycircuitbuild.tech/">Easy Circuit Build</a> <img src="https://webtoolskit.online/assets/img/easy-circuit-build.webp" width="50">___
 <a href="https://webtoolskit.online/">Web Tools Kit</a> <img src="https://webtoolskit.online/assets/img/og.png" width="50"></h2>
 
-  ---
+
+---
+
+  <img src="https://raw.githubusercontent.com/idivyanshbansal/idivyanshbansal/output/github-contribution-grid-snake.svg">
+  
+---
+
   <p>
     <a align= "center" href="https://github.com/idivyanshbansal">
   <img align="right" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=idivyanshbansal&theme=chartreuse-dark">
