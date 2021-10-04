@@ -11,12 +11,13 @@
 ,[![Twitter Badge](https://img.shields.io/badge/-Divyansh-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/idivyanshbnsl)](https://twitter.com/idivyanshbnsl) <img src="https://cdn.dribbble.com/users/2437398/screenshots/4874253/media/2f02a5172aa13b3884144e7b2f49f363.gif" width="50"></h3>
 
  ---
+ 
 <h3>  
 - 🌐 Check out: </h3>
 
-<h2 align= "center"><a href="https://circuitspace.cf/">Circuit Space</a><img src="https://webtoolskit.online/assets/img/circuitspace.png" width="50">___  
-<a href="https://denoviz.web.app/">Denoviz</a> <img src="https://denoviz.web.app/assets/img/og.png" width="50">___
-<a href="https://easycircuitbuild.tech/">Easy Circuit Build</a> <img src="https://webtoolskit.online/assets/img/easy-circuit-build.webp" width="50">___
+<h2 align= "center"><a href="https://circuitspace.cf/">Circuit Space</a><img src="https://webtoolskit.online/assets/img/circuitspace.png" width="50">&nbsp;&nbsp;
+<a href="https://denoviz.web.app/">Denoviz</a> <img src="https://denoviz.web.app/assets/img/og.png" width="50">&nbsp;&nbsp;
+<a href="https://easycircuitbuild.tech/">Easy Circuit Build</a> <img src="https://webtoolskit.online/assets/img/easy-circuit-build.webp" width="50">&nbsp;&nbsp;
 <a href="https://webtoolskit.online/">Web Tools Kit</a> <img src="https://webtoolskit.online/assets/img/og.png" width="50"></h2>
 
 
@@ -34,13 +35,11 @@
 
   ![Divyansh Bansal's github activity graph](https://activity-graph.herokuapp.com/graph?username=idivyanshbansal&theme=chartreuse-dark)
     
- 
---- 
-
+<!--
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=idivyanshbansal&repo=Bluetooth_module_AT_cmd&theme=chartreuse-dark">
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idivyanshbansal&theme=chartreuse-dark">
-
+-->
 
 
 <!--
