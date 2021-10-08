@@ -8,17 +8,17 @@
 - 💬 How to reach me: -->
 
 <h1 align="Center">
- <img src="https://readme-typing-svg.herokuapp.com?size=50&center=true&vCenter=true&width=800&height=100&color=%23FD9614&lines=Hi%2C+I'm+Divyansh+Bansal++%F0%9F%91%8B;I+love+making+things+%F0%9F%98%9C;Currently+a+student+of+engineering+%F0%9F%A4%93;%F0%9F%92%AC+Contact+me+%F0%9F%91%87"></h1>
+ <img src="https://readme-typing-svg.herokuapp.com?size=50&center=true&vCenter=true&width=800&height=100&color=%23FD9614&lines=Hi%2C+I'm+Divyansh+Bansal++%F0%9F%91%8B;I+love+making+things+%F0%9F%98%9C;Student+of+engineering+%F0%9F%A4%93;%F0%9F%92%AC+Contact+me+%F0%9F%91%87"></h1>
 
- <h3 align="Center"> 
-  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/idivyanshbansal/)](https://www.linkedin.com/in/idivyanshbansal/) 
-, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:divyansh.bansal25@gmail.com)](mailto:divyansh.bansal25@gmail.com)
-,[![Twitter Badge](https://img.shields.io/badge/-Divyansh-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/idivyanshbnsl)](https://twitter.com/idivyanshbnsl)
+ <h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/idivyanshbnsl" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="idivyanshbnsl" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/idivyanshbansal/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Divyansh Bansal" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/idivyanshbansal/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="idivyanshbansal" height="50" width="50" /></a>
+</p>
 
  ---
  
-<h3>  
 - 🌐 Check out: </h3>
 
 <h2 align= "center"><a href="https://circuitspace.cf/">Circuit Space</a><img src="https://webtoolskit.online/assets/img/circuitspace.png" width="50" valign="middle" >&nbsp;&nbsp;
