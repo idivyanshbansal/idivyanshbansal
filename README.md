@@ -1,11 +1,13 @@
-<h1 align="Center">  Hi there, I'm <a href="https://idivyanshbansal.tk/">Divyansh Bansal</a>&nbsp;<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50" valign="middle" ></h1>
+<!--<h1 align="Center">  Hi there, I'm <a href="https://idivyanshbansal.tk/">Divyansh Bansal</a>&nbsp;<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50" valign="middle" ></h1>
 <h3>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
 - 💕 I love making things 😍
 - 🔭 Currently a student of engineering, but a perpetual learner 🤓
 - 👯 Always open for interesting discussions and looking to collaborate on projects concerning electronics and web development 🙂
-- 💬 How to reach me:
+- 💬 How to reach me: -->
+<h1 align="Center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FD9614&lines=Hi+there%2C+I'm+Divyansh+Bansal++%F0%9F%91%8B;I+love+making+things+%F0%9F%98%9C;Currently+a+student+of+engineering+%F0%9F%A4%93;%F0%9F%92%AC+Contact+me+%F0%9F%91%87)](https://git.io/typing-svg)</h1>
+ <h3>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/idivyanshbansal/)](https://www.linkedin.com/in/idivyanshbansal/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:divyansh.bansal25@gmail.com)](mailto:divyansh.bansal25@gmail.com)
 ,[![Twitter Badge](https://img.shields.io/badge/-Divyansh-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/idivyanshbnsl)](https://twitter.com/idivyanshbnsl)
