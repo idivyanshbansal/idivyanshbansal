@@ -6,7 +6,9 @@
 - 🔭 Currently a student of engineering, but a perpetual learner 🤓
 - 👯 Always open for interesting discussions and looking to collaborate on projects concerning electronics and web development 🙂
 - 💬 How to reach me: -->
+
 <h1 align="Center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FD9614&lines=Hi+there%2C+I'm+Divyansh+Bansal++%F0%9F%91%8B;I+love+making+things+%F0%9F%98%9C;Currently+a+student+of+engineering+%F0%9F%A4%93;%F0%9F%92%AC+Contact+me+%F0%9F%91%87)](https://git.io/typing-svg)</h1>
+
  <h3>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/idivyanshbansal/)](https://www.linkedin.com/in/idivyanshbansal/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:divyansh.bansal25@gmail.com)](mailto:divyansh.bansal25@gmail.com)
