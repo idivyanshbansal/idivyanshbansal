@@ -29,11 +29,11 @@
 
   <p>
     <a align= "center" href="https://github.com/idivyanshbansal">
-  <img align="right" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=idivyanshbansal&theme=chartreuse-dark">
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=idivyanshbansal&count_private=true&theme=chartreuse-dark&show_icons=true" /></a>
+  <img align="right" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=idivyanshbansal&theme=redical">
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=idivyanshbansal&count_private=true&theme=redical&show_icons=true" /></a>
   </p>
 
-  ![Divyansh Bansal's github activity graph](https://activity-graph.herokuapp.com/graph?username=idivyanshbansal&theme=chartreuse-dark)
+  ![Divyansh Bansal's github activity graph](https://activity-graph.herokuapp.com/graph?username=idivyanshbansal&theme=redical)
     
 <!--
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=idivyanshbansal&repo=Bluetooth_module_AT_cmd&theme=chartreuse-dark">
