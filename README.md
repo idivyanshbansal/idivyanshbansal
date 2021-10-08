@@ -5,11 +5,11 @@
 - 💕 I love making things 😍
 - 🔭 Currently a student of engineering, but a perpetual learner 🤓
 - 👯 Always open for interesting discussions and looking to collaborate on projects concerning electronics and web development 🙂
+- 📧  Connect with me:
 
 <!--<h1 align="Center">
  <img src="https://readme-typing-svg.herokuapp.com?size=50&center=true&vCenter=true&width=800&height=100&color=%23FD9614&lines=Hi%2C+I'm+Divyansh+Bansal++%F0%9F%91%8B;I+love+making+things+%F0%9F%98%9C;Student+of+engineering+%F0%9F%A4%93;%F0%9F%92%AC+Contact+me+%F0%9F%91%87"></h1>-->
 
- <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/idivyanshbnsl" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="idivyanshbnsl" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/idivyanshbansal/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Divyansh Bansal" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
