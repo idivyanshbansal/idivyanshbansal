@@ -31,8 +31,9 @@
 
   <p>
     <a align= "center" href="https://github.com/idivyanshbansal">
-    <img height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=idivyanshbansal&theme=highcontrast></a>
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=idivyanshbansal&count_private=true&theme=highcontrast&show_icons=true" /></a>
+        <img align="right" height="20%" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=idivyanshbansal&theme=highcontrast">
+                <img height="20%" width="40%" src="https://github-readme-stats.vercel.app/api?username=idivyanshbansal&count_private=true&theme=highcontrast&show_icons=true" />
+    
   </p>
 
   ![Divyansh Bansal's github activity graph](https://activity-graph.herokuapp.com/graph?username=idivyanshbansal&theme=redical&line=FC5500)
