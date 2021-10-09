@@ -31,7 +31,7 @@
 
   <p>
     <a align= "center" href="https://github.com/idivyanshbansal">
-  <img align="right" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=idivyanshbansal&theme=highcontrast">
+    <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=idivyanshbansal&count_private=true&show_icons=true&title_color=FA8B00&text_color=FDFDFD&icon_color=FA8B00&bg_color=000"></a>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=idivyanshbansal&count_private=true&theme=highcontrast&show_icons=true" /></a>
   </p>
 
