@@ -32,7 +32,7 @@
   <p>
     <a align= "center" href="https://github.com/idivyanshbansal">
         <img align="right" height="20%" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=idivyanshbansal&theme=highcontrast">
-                <img height="20%" width="40%" src="https://github-readme-stats.vercel.app/api?username=idivyanshbansal&count_private=true&theme=highcontrast&show_icons=true" />
+                <img height="20%" width="40%" src="https://github-readme-stats.vercel.app/api?username=idivyanshbansal&count_private=true&theme=great-gatsby&show_icons=true" />
     
   </p>
 
