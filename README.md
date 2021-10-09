@@ -1,4 +1,4 @@
-<h1 align="Center">  Hi there, I'm <a href="https://idivyanshbansal.tk/">Divyansh Bansal</a>&nbsp;<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50" valign="middle" ></h1>
+<h1 color="red" align="Center">  Hi there, I'm <a href="https://idivyanshbansal.tk/">Divyansh Bansal</a>&nbsp;<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50" valign="middle" ></h1>
 <h3>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
@@ -17,10 +17,10 @@
  
 - 🌐 Check out: </h3>
 
-<h2 align= "center"><a href="https://circuitspace.cf/">Circuit Space</a><img src="https://webtoolskit.online/assets/img/circuitspace.png" width="50" valign="middle" >&nbsp;&nbsp;
+<p align= "center"><a href="https://circuitspace.cf/">Circuit Space</a><img src="https://webtoolskit.online/assets/img/circuitspace.png" width="50" valign="middle" >&nbsp;&nbsp;
 <a href="https://denoviz.web.app/">Denoviz</a> <img src="https://denoviz.web.app/assets/img/og.png" width="50" valign="middle" >&nbsp;&nbsp;
 <a href="https://easycircuitbuild.tech/">Easy Circuit Build</a> <img src="https://webtoolskit.online/assets/img/easy-circuit-build.webp" width="50" valign="middle" >&nbsp;&nbsp;
-<a href="https://webtoolskit.online/">Web Tools Kit</a> <img src="https://webtoolskit.online/assets/img/og.png" width="50" valign="middle" ></h2>
+<a href="https://webtoolskit.online/">Web Tools Kit</a> <img src="https://webtoolskit.online/assets/img/og.png" width="50" valign="middle" ></p>
 
 
 ---
@@ -29,11 +29,11 @@
   
 ---
 
-  <p>
+<p>
     <a align= "center" href="https://github.com/idivyanshbansal">
-  <img align="right" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=idivyanshbansal&theme=highcontrast">
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=idivyanshbansal&count_private=true&theme=highcontrast&show_icons=true" /></a>
-  </p>
+    <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=idivyanshbansal&count_private=true&show_icons=true&title_color=FA8B00&text_color=FDFDFD&icon_color=FA8B00&bg_color=151515"></a>
+    <img align="right" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=idivyanshbansal&theme=dark">
+</p>
 
-  ![Divyansh Bansal's github activity graph](https://activity-graph.herokuapp.com/graph?username=idivyanshbansal&theme=redical&line=FC5500)
+  ![Divyansh Bansal's github activity graph](https://activity-graph.herokuapp.com/graph?username=idivyanshbansal&bg_color=151515&color=FDFDFD&line=D57803&point=FDFDFD&hide_title=true)
     
