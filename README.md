@@ -8,8 +8,8 @@
 - 📧  Connect with me:
  
 <p align="center">
+ <a href="https://www.linkedin.com/in/idivyanshbansal/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Divyansh Bansal" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/idivyanshbnsl" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-128/twitter-241-721979.png" alt="idivyanshbnsl" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/idivyanshbansal/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-128/linkedin-189-721962.png" alt="Divyansh Bansal" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/idivyanshbansal/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-128/instagram-216-721958.png" alt="idivyanshbansal" height="50" width="50" /></a>
 </p>
 
