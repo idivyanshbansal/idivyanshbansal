@@ -2,9 +2,10 @@
 <h3>
 <img align="right" alt="GIF" height="200px" src="https://octodex.github.com/images/Fintechtocat.png">
  
-- 💕 I love making things 😍
+- 💕 I love making things 😍&nbsp;&nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=idivyanshbansal&color=orange)
 - 🔭 Currently a student of engineering, but a perpetual learner 🤓
 - 👯 Always open for interesting discussions and looking to collaborate on projects concerning electronics and web development 🙂
+
 - 📧  Connect with me:
 
  <p align="center">
