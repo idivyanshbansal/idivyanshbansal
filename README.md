@@ -18,9 +18,9 @@
  
 - 🌐 Check out: </h3>
 
-<h2 align= "center"><a href="https://circuitspace.cf/">Circuit Space</a><img src="https://webtoolskit.online/assets/img/circuitspace.png" width="50" valign="middle" >&nbsp;&nbsp;
+<h2 align= "center"><a href="https://circuitspace.cf/">Circuit Space</a><img src="https://circuitspace.cf/assets/img/logo.png" width="50" valign="middle" >&nbsp;&nbsp;
 <a href="https://denoviz.web.app/">Denoviz</a> <img src="https://denoviz.web.app/assets/img/og.png" width="50" valign="middle" >&nbsp;&nbsp;
-<a href="https://easycircuitbuild.tech/">Easy Circuit Build</a> <img src="https://webtoolskit.online/assets/img/easy-circuit-build.webp" width="50" valign="middle" >&nbsp;&nbsp;
+<a href="https://easycircuitbuild.web.app">Easy Circuit Build</a> <img src="https://easycircuitbuild.web.app/static/nav_icon.png" width="50" valign="middle" >&nbsp;&nbsp;
 <a href="https://webtoolskit.online/">Web Tools Kit</a> <img src="https://webtoolskit.online/assets/img/og.png" width="50" valign="middle" ></h2>
 
 
