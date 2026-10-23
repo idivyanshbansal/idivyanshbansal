@@ -14,19 +14,4 @@
 <a href="https://www.instagram.com/idivyanshbansal/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-128/instagram-216-721958.png" alt="idivyanshbansal" height="50" width="50" /></a>
 </p>
 
- ---
- 
- 
-
-  <img src="https://raw.githubusercontent.com/idivyanshbansal/idivyanshbansal/output/github-contribution-grid-snake.svg">
-  
----
-<p>
- <a align= "center" href="https://github.com/idivyanshbansal">
-  <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=idivyanshbansal&count_private=true&show_icons=true&title_color=FA8B00&text_color=FDFDFD&icon_color=FA8B00&bg_color=000000">
-  <img align="right" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=idivyanshbansal&theme=highcontrast">
-</p>
-
-![Divyansh Bansal's github activity graph](https://activity-graph.herokuapp.com/graph?username=idivyanshbansal&bg_color=000000&color=FDFDFD&line=D57803&point=FDFDFD&hide_title=true)
- 
  
